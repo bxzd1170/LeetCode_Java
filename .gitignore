@@ -1,0 +1,19 @@
+# 全局忽略整个IDE配置文件夹
+.idea/
+*.iml
+
+# 下面保留原有内容不变
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+
+# 额外补充Java项目过滤
+out/
+target/
+*.class
+.DS_Store
+Thumbs.db
+*.log
