@@ -1,7 +1,5 @@
 package easy;
 
-import java.util.HashMap;
-
 class LC01_TwoSum {
     // 解法1：暴力双重循环
     public static int[] twoSum1(int[] nums, int target) {
